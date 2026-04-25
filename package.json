@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@neondatabase/serverless": "^latest",
+    "dotenv": "^16.4.7"
+  },
+  "devDependencies": {}
+}
